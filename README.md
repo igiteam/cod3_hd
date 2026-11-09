@@ -14,6 +14,8 @@ Call of Duty 3 HD version
 
 ![https://raw.githubusercontent.com/FrankHUN88453/CoD3Recomp/main/preview.png](https://raw.githubusercontent.com/FrankHUN88453/CoD3Recomp/main/preview.png)
 
+[![Watch the video](https://img.youtube.com/vi/b1nE2SDYxac/maxresdefault.jpg)](https://www.youtube.com/watch?v=b1nE2SDYxac)
+
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
@@ -33,8 +35,6 @@ Do not bug me with issues or features, I'm working on it.
 If you have compilation errors please provide log in report.
 
 Tessellation fix sourced/learned from: https://github.com/alekszverr-jpg/cod3pc
-
-To contact me directly use: https://fluxer.gg/jE4iJ1xh
 
 
 ## Dev Environment
