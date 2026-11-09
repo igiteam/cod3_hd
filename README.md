@@ -17,13 +17,12 @@ Call of Duty 3 HD version
 [![Watch the video](https://img.youtube.com/vi/b1nE2SDYxac/maxresdefault.jpg)](https://www.youtube.com/watch?v=b1nE2SDYxac)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
-
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
 
 ## Reference links
 [https://github.com/FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp)
-
+[https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907](https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907)
 
 Heavily inspired by: https://github.com/FrankHUN88453/CoD3Recomp
 
