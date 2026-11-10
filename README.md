@@ -22,6 +22,9 @@ Call of Duty 3 HD version
 
 ## Reference links
 [https://github.com/FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp)
+
+[https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader](https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader)
+
 [https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907](https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907)
 
 ---
