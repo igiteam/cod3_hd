@@ -17,7 +17,10 @@ Call of Duty 3 HD version
 [![Watch the video](https://img.youtube.com/vi/b1nE2SDYxac/maxresdefault.jpg)](https://www.youtube.com/watch?v=b1nE2SDYxac)
 
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
+
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
 ## Call Of Duty 2003 HD
 ## Call of Duty: United Offensive
