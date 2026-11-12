@@ -29,6 +29,19 @@ Call of Duty 3 HD version
 ## Call of Duty 2 Big Red One
 ## Call of Duty 3 Xbox
 
+# Call of Duty Collection
+[![Call of Duty](https://cdn.mobygames.com/covers/4083905-call-of-duty-windows-front-cover.jpg)](https://archive.org/details/CallOfDutyUSAEurope)
+
+[![Call of Duty: United Offensive](https://cdn.mobygames.com/covers/4170848-call-of-duty-united-offensive-windows-front-cover.jpg)](https://archive.org/details/CallOfDutyUnitedOffensiveUSAEurope)
+
+[![Call of Duty: Finest Hour](https://cdn.mobygames.com/covers/4559290-call-of-duty-finest-hour-xbox-front-cover.jpg)](https://vimm.net/vault/26737)
+
+[![Call of Duty 2](https://cdn.mobygames.com/covers/20494583-call-of-duty-2-windows-front-cover.jpg)](https://archive.org/details/callofduty2usa)
+
+[![Call of Duty 2: Big Red One](https://cdn.mobygames.com/covers/5094618-call-of-duty-2-big-red-one-xbox-front-cover.jpg)](https://vimm.net/vault/26663)
+
+[![Call of Duty 3](https://cdn.mobygames.com/covers/5364169-call-of-duty-3-xbox-front-cover.jpg)](https://vimm.net/vault/15239)
+
 ## Reference links
 [https://github.com/FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp)
 
