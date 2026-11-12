@@ -19,11 +19,19 @@ Call of Duty 3 HD version
 ## WS11WineCX20.0.4 (macOS Big Sur 32-bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
+## Call Of Duty 2003 HD
+## Call of Duty: United Offensive
+## Call of Duty Finest Hour Xbox
+## Call of Duty 2
+## Call of Duty 2 Big Red One
+## Call of Duty 3 Xbox
 
 ## Reference links
 [https://github.com/FrankHUN88453/CoD3Recomp](https://github.com/FrankHUN88453/CoD3Recomp)
 
 [https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader](https://github.com/SmokeDoggy044/CoD2-BRO-Native-Loader)
+
+[https://github.com/igiteam/COD2-BRO-XBERecomp](https://github.com/igiteam/COD2-BRO-XBERecomp)
 
 [https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907](https://discord.com/channels/1558110182423273502/1558113772877389834/threads/1561702140802768907)
 
