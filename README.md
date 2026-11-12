@@ -22,12 +22,6 @@ Call of Duty 3 HD version
 
 [![Wine Windows games on macOS](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
 
-## Call Of Duty 2003 HD
-## Call of Duty: United Offensive
-## Call of Duty Finest Hour Xbox
-## Call of Duty 2
-## Call of Duty 2 Big Red One
-## Call of Duty 3 Xbox
 
 # Call of Duty Collection
 [![Call of Duty](https://cdn.mobygames.com/covers/4083905-call-of-duty-windows-front-cover.jpg)](https://archive.org/details/CallOfDutyUSAEurope)
